@@ -29,16 +29,16 @@ This is a recipe for homemade peanut butter & chocolate granola bars that are qu
 * **Brown Sugar** - 1/2 cup (packed)
 
 ## <span style="font-family:Bershire Swash; font-size:1.5em;">Directions</span>
-1. [ ] Line the baking pan with parchment paper leaving about an inch hanging over each side.
-2. [ ] Melt the butter and brown sugar in the frying pan on medium heat.
-3. [ ] Once the butter melts and the sugar dissolves, mix in the vanilla extract and oats.
-4. [ ] Cook over low heat for 4 to 5 minutes and stir often until ingredients are well blended.
-5. [ ] Pour half of the oats mix into the baking pan and press mix evenly flat.
-6. [ ] To make the filling, melt the peanut butter and chocolate chips together in a small microwave-safe bowl and stir until it’s smooth.
-7. [ ] Pour most of the mix evenly over the oats and reserve about 1/4 of the bowl for drizzling.
-8. [ ] Pour the remaining oats mixture over the chocolate layer, pressing in gently and drizzle with the remaining chocolate.
-9. [ ] Refrigerate for about 1 hour or more until solid.
-10. [ ] Once cooled, lift the dessert and the parchment paper out of the baking pan and lay on flat surface to cut.
+1. Line the baking pan with parchment paper leaving about an inch hanging over each side.
+2. Melt the butter and brown sugar in the frying pan on medium heat.
+3. Once the butter melts and the sugar dissolves, mix in the vanilla extract and oats.
+4. Cook over low heat for 4 to 5 minutes and stir often until ingredients are well blended.
+5. Pour half of the oats mix into the baking pan and press mix evenly flat.
+6. To make the filling, melt the peanut butter and chocolate chips together in a small microwave-safe bowl and stir until it’s smooth.
+7. Pour most of the mix evenly over the oats and reserve about 1/4 of the bowl for drizzling.
+8. Pour the remaining oats mixture over the chocolate layer, pressing in gently and drizzle with the remaining chocolate.
+9. Refrigerate for about 1 hour or more until solid.
+10. Once cooled, lift the dessert and the parchment paper out of the baking pan and lay on flat surface to cut.
 
 ## <span style="font-family:Bershire Swash; font-size:1.5em;">Nutrition Info Per Serving</span>
 * 190 Calories
